@@ -58,6 +58,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+Skin: mint
 #theme: jekyll-theme-slate
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
