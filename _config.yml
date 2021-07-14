@@ -33,10 +33,11 @@ github_username:  sapeluhah
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
 #remote_theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,3 +60,4 @@ plugins:
 #   - vendor/ruby/
 
 #theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
